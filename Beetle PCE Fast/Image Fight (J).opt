@@ -1,6 +1,6 @@
-pce_adpcmvolume = "50"
+pce_adpcmvolume = "30"
 pce_cddavolume = "100"
-pce_cdpsgvolume = "50"
+pce_cdpsgvolume = "30"
 pce_sound_channel_0_volume = "100"
 pce_sound_channel_1_volume = "100"
 pce_sound_channel_2_volume = "100"
