@@ -1,0 +1,7 @@
+fbneo-fm-sound-channel-0-volume = "100"
+fbneo-fm-sound-channel-1-volume = "100"
+fbneo-fm-sound-channel-2-volume = "100"
+fbneo-psg-sound-channel-0-volume = "30"
+fbneo-psg-sound-channel-1-volume = "30"
+fbneo-psg-sound-channel-2-volume = "30"
+#include "FinalBurn Neo.opt"
